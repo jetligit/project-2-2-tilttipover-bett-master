@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Main class for the clock puzzle.
  *
- * @author Benson Zhou
+ * @author Benson Zhou and Jet Li
  */
 public class Clock {
     /**
