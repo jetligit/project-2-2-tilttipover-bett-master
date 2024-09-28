@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Main class for the water buckets puzzle.
  *
- * @author Benson Zhou
+ * @author Benson Zhou and Jet Li
  */
 public class Water {
 
