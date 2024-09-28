@@ -8,7 +8,7 @@ import java.util.Collection;
 /**
  * ClockConfig makes config objects and has methods that check whether the object is the solution and gets neighbors of
  * those config objects
- * Author: Benson Zhou
+ * Author: Benson Zhou and Jet Li
  */
 public class ClockConfig implements Configuration {
     private int hours; /** Max hours start can hit before resetting to 1 */
