@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Solver is the main program that handles BFS. It isn't specific for any program and handles the general procedure.
- * Author: Benson Zhou
+ * Author: Benson Zhou and Jet Li
  */
 public class Solver {
     private List<Configuration> path = new LinkedList<>(); /** Shortest path to the goal */
