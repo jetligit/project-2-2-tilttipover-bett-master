@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * WaterConfig implements WaterConfig objects and has methods that check whether the object is the solution and gets neighbors of
  * those config objects
- * Author: Benson Zhou
+ * Author: Benson Zhou and Jet Li
  */
 public class WaterConfig implements Configuration{
     private int amount; /** goal: number of gallons for one of the buckets to be holding */
